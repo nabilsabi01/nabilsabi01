@@ -10,97 +10,107 @@
   <a href="https://twitter.com/NabilSABI"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-Greetings! I'm **Nabil Sabi**, a passionate **Full Stack Developer** specializing in **Java** and **Angular**. With a strong foundation in both front-end and back-end technologies, I thrive on creating efficient, scalable applications that solve real-world problems. My journey in tech is driven by an insatiable curiosity and a commitment to continuous learning.
+Bonjour ! Je suis **Nabil Sabi**, un **Développeur Full Stack** passionné, spécialisé en **Java** et **Angular**. Avec une solide base en technologies front-end et back-end, j'excelle dans la création d'applications efficaces et évolutives qui résolvent des problèmes concrets. Mon parcours dans la technologie est motivé par une curiosité insatiable et un engagement envers l'apprentissage continu.
 
-### 🌱 Currently Exploring
-- Advanced Angular techniques and state management with NgRx
-- Microservices architecture using Spring Boot
-- Containerization and orchestration with Docker and Kubernetes
+### 🌱 Actuellement en exploration
+- Techniques avancées d'Angular et gestion d'état avec NgRx
+- Architecture de microservices avec Spring Boot
+- Conteneurisation et orchestration avec Docker et Kubernetes
 
-## 🛠 Tech Stack
+## 🛠 Stack Technologique
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### Frontend
-HTML5, CSS3, JavaScript, TypeScript, Angular, Bootstrap, JQuery
+### Langages les plus utilisés
+- Java : 57,05%
+- HTML : 18,03%
+- TypeScript : 11,19%
+- CSS : 7,87%
+- C : 3,55%
+- JavaScript : 2,31%
 
-### Backend
-Java, C#, Spring Boot, ASP.NET Core, JEE
+## 📊 Statistiques GitHub
 
-### Databases
-MySQL, SQL Server, PostgreSQL
+- 🌟 Total des étoiles gagnées : 28
+- 📊 Total des commits (2024) : 104
+- 🔀 Total des PR : 87
+- ❗ Total des issues : 0
+- 🤝 Contributions (dernière année) : 3
+- 📅 Série actuelle : 0 jours
+- 🔥 Plus longue série : 5 jours
+- 🎯 Total des contributions : 222
 
-### Tools & Others
-Git, VS Code, IntelliJ IDEA, Eclipse, Android Studio, Figma, Photoshop, Jira, Trello
+## 🚀 Projets phares
 
-## 🚀 Featured Projects
-
-### 🚗 Car Rental Management System
+### 🚗 Système de Gestion de Location de Voitures
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/car-rental.png" alt="Car Rental Icon"/>
+  <img src="https://img.icons8.com/fluency/96/000000/car-rental.png" alt="Icône Location de Voitures"/>
 </p>
 
-A robust desktop application developed during my internship at Oways Rental Car, streamlining the car rental process.
+Une application de bureau robuste développée lors de mon stage chez Oways Rental Car, rationalisant le processus de location de voitures.
 
-- **Tech Stack:** C#, Entity Framework, SQL Server
-- **Key Features:**
-  - User-friendly interface for managing rentals
-  - Real-time inventory tracking
-  - Automated billing and invoicing
-- [View Repository](https://github.com/nabilsabi01/rental-car-management)
+- **Stack Technique :** C#, Entity Framework, SQL Server
+- **Fonctionnalités clés :**
+  - Interface conviviale pour la gestion des locations
+  - Suivi d'inventaire en temps réel
+  - Facturation et génération de factures automatisées
+- [Voir le dépôt](https://github.com/nabilsabi01/rental-car-management)
 
-### 🎬 Cinema Ticketing Platform
+### 🎬 Plateforme de Billetterie de Cinéma
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/cinema-.png" alt="Cinema Icon"/>
+  <img src="https://img.icons8.com/fluency/96/000000/cinema-.png" alt="Icône Cinéma"/>
 </p>
 
-An innovative web application for cinema ticket booking, featuring user authentication and personalized movie recommendations.
+Une application web innovante pour la réservation de billets de cinéma, avec authentification des utilisateurs et recommandations de films personnalisées.
 
-- **Tech Stack:** Java EE, Hibernate, MySQL, HTML/CSS, JavaScript, Bootstrap
-- **Key Features:**
-  - Secure user registration and login
-  - Interactive seat selection
-  - AI-powered movie recommendation engine
-- [View Repository](https://github.com/imane-el-mazouz/cinema-ticket-megarama)
+- **Stack Technique :** Java EE, Hibernate, MySQL, HTML/CSS, JavaScript, Bootstrap
+- **Fonctionnalités clés :**
+  - Inscription et connexion sécurisées des utilisateurs
+  - Sélection interactive des sièges
+  - Moteur de recommandation de films alimenté par l'IA
+- [Voir le dépôt](https://github.com/imane-el-mazouz/cinema-ticket-megarama)
 
-## 🎓 Education
+## 🎓 Formation
 
-- **Web and Mobile Development (Java/Angular)** - École Numérique Ahmed Al Hansali, Beni Mellal (2024)
-- **Specialized Technician Diploma in Software Development** - Institut Spécialisé de Technologie Appliquée, Souk Sebt (2022)
-- **Baccalaureate in Physical Sciences** - Lycée Al Khawarizmi, Souk Sebt (2020)
+- **Développement Web et Mobile (Java/Angular)** - École Numérique Ahmed Al Hansali, Beni Mellal (2024)
+- **Diplôme de Technicien Spécialisé en Développement Informatique** - Institut Spécialisé de Technologie Appliquée, Souk Sebt (2022)
+- **Baccalauréat Sciences Physiques** - Lycée Al Khawarizmi, Souk Sebt (2020)
 
-## 💼 Professional Experience
+## 💼 Expérience Professionnelle
 
-### Software Development Intern | Oways Rental Car
-*March 2022 - April 2022*
+### Stagiaire en Développement Logiciel | Oways Rental Car
+*Mars 2022 - Avril 2022*
 
-- Developed and implemented a comprehensive car rental management system
-- Collaborated with stakeholders to gather and refine project requirements
-- Utilized C#, Entity Framework, and SQL Server to create a scalable solution
+- Développement et mise en œuvre d'un système complet de gestion de location de voitures
+- Collaboration avec les parties prenantes pour recueillir et affiner les exigences du projet
+- Utilisation de C#, Entity Framework et SQL Server pour créer une solution évolutive
 
-## 🌍 Languages
+## 🌍 Langues
 
-- 🇲🇦 **Arabic:** Native
-- 🇫🇷 **French:** Beginner
-- 🇺🇸 **English:** Beginner
+- 🇲🇦 **Arabe :** Langue maternelle
+- 🇫🇷 **Français :** Intermédiaire
+- 🇺🇸 **Anglais :** Intermédiaire
 
-## 🎨 Interests & Hobbies
+## 🎨 Intérêts & Loisirs
 
-- 🎨 Graphic Design
+- 🎨 Design graphique
 - ⚽ Sports
-- 📊 Data Analysis
-- 🎧 Podcast Enthusiast
+- 📊 Analyse de données
+- 🎧 Passionné de podcasts
 
 ---
 
@@ -109,5 +119,5 @@ An innovative web application for cinema ticket booking, featuring user authenti
 </div>
 
 <p align="center">
-  <i>Thank you for exploring my portfolio! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</i>
+  <i>Merci d'avoir exploré mon portfolio ! Je suis toujours ouvert à discuter de nouveaux projets, d'idées créatives ou d'opportunités pour faire partie de vos visions.</i>
 </p>
