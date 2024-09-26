@@ -91,8 +91,8 @@ An innovative web application for cinema ticket booking, featuring user authenti
 ## 🌍 Languages
 
 - 🇲🇦 **Arabic:** Native
-- 🇫🇷 **French:** Beginner
-- 🇺🇸 **English:** Beginner
+- 🇫🇷 **French:** Intermediate
+- 🇺🇸 **English:** Intermediate
 
 ## 🎨 Interests & Hobbies
 
