@@ -42,12 +42,33 @@ Passionate Full Stack Developer specializing in Java Backend and Angular Fronten
 
 ---
 
-## 🖊️ GitHub Stats
+## 🖊️ Comprehensive GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilsabi01&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilsabi01&theme=vue-dark" alt="GitHub Streak" />
-</p>
+### Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilsabi01&show_icons=true&theme=vue-dark)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsabi01&layout=compact&theme=vue-dark)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilsabi01&theme=vue-dark)
+
+### Detailed Contributions
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabilsabi01&theme=vue-dark)
+
+### Repository & Language Stats
+![Repository Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabilsabi01&theme=vue-dark)
+![Most Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabilsabi01&theme=vue-dark)
+
+---
+
+## 🏆 Achievements
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilsabi01&theme=oldie&column=7&margin-w=15&margin-h=15)
+
+### Advanced Metrics
+![Advanced Metrics](https://metrics.lecoq.io/nabilsabi01?template=classic&languages=1&achievements=1&repositories=1&base.indepth=true&base.hireable=true&languages.limit=10&languages.sections=most-used,percentage&achievements.display=detailed&achievements.limit=5&repositories.pinned=4)
 
 ---
 
@@ -57,11 +78,15 @@ Passionate Full Stack Developer specializing in Java Backend and Angular Fronten
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabilsabi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsabi01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilsabi01@gmail.com)
 
 ---
@@ -73,7 +98,3 @@ Passionate Full Stack Developer specializing in Java Backend and Angular Fronten
 - 💬 Ask me about web development and software architecture
 - 🔬 Currently enhancing skills in Angular 18 and Spring Boot
 - 📧 Open to innovative and challenging projects
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nabilsabi01&color=blueviolet)
-
-*Crafted with ❤️ and ☕ by Nabil Sabi*
