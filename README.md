@@ -60,9 +60,6 @@ Full Stack Developer with a robust background in Java and Angular. Transforming 
 ### Language Proficiency
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsabi01&layout=compact&theme=vue-dark)
 
-### Contribution Consistency
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilsabi01&theme=vue-dark)
-
 ---
 
 ## 🌐 Professional Network
