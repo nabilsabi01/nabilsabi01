@@ -2,7 +2,7 @@
 
 ## 🚀 Professional Profile
 
-💼 **Full Stack Developer** passionate about building modern, responsive, and scalable web applications. Currently focused on **frontend development with React.js and Tailwind CSS** during my internship, with a solid backend foundation in **Java, Spring Boot, and security best practices**.
+💼 **Full Stack Developer** passionate about building modern, responsive, and scalable web applications. Currently focused on **frontend development with React.js and Tailwind CSS**, with a solid backend foundation in **Java, Spring Boot, and security best practices**.
 
 ---
 
@@ -97,4 +97,4 @@
 - 🚀 Currently focused on **React.js + Tailwind CSS** for frontend development  
 - 🔁 Strong background in **Java**, **Spring Boot**, and **Angular**  
 - 🌱 Always learning, always building  
-- 📩 Open to opportunities, internships, and team projects
+- 📩 Open to opportunities, and team projects
